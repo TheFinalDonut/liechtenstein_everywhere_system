@@ -1,0 +1,25 @@
+﻿###########################
+# Liechtenstein Events
+###########################
+
+add_namespace = LCH_event
+
+country_event = {
+	id = LCH_event.1
+	immediate = {log = "[GetDateText]: [Root.GetName]: event FBK_debug.1"}
+	title = LCH_event.1.t
+	desc = LCH_event.1.d
+	#picture = 
+
+	fire_only_once = yes
+
+	is_triggered_only = yes
+
+	option = {
+		name = LCH_event.1.a
+		hidden_effect = {
+			
+		}
+		
+	}
+}
