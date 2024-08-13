@@ -1,0 +1,13 @@
+spriteTypes = {
+
+	### AFG
+
+	spriteType = {
+		name = "sigmamale"
+		texturefile = "gfx/leaders/LCH/sigmamale.dds"
+	}
+	spriteType = {
+		name = "john_lichtenstein"
+		texturefile = "gfx/leaders/lCH/john_lichtenstein.dds"
+	}
+}

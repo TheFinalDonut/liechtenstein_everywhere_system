@@ -34,7 +34,7 @@ set_popularities = {
 
 create_country_leader = {
 	name = "Franz Joseph II"
-	picture = "gfx/leaders/LCH/sigmamale.dds"
+	picture = "sigmamale"
 	expire = "1965.1.1"
 	ideology = despotism
 	traits = {
@@ -43,7 +43,7 @@ create_country_leader = {
 
 create_field_marshal = {
 	name = "John Liechtenstein"
-	picture = "john_lichtenstein.dds"
+	picture = "john_lichtenstein"
 	traits = { old_guard }
 	skill = 9
 	attack_skill = 9
