@@ -40,3 +40,15 @@ create_country_leader = {
 	traits = {
 	}
 }
+
+create_field_marshal = {
+	name = "John Liechtenstein"
+	picture = "john_lichtenstein.dds"
+	traits = { old_guard }
+	skill = 9
+	attack_skill = 9
+	defense_skill = 9
+	planning_skill = 9
+	logistics_skill = 9
+	id = -1
+}
