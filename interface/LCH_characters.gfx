@@ -10,4 +10,8 @@ spriteTypes = {
 		name = "john_lichtenstein"
 		texturefile = "gfx/leaders/lCH/john_lichtenstein.dds"
 	}
+	spriteType = {
+		name = "mypetrock"
+		texturefile = "gfx/leaders/lCH/mypetrock.dds"
+	}
 }

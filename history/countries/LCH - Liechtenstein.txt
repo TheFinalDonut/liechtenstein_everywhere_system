@@ -55,7 +55,7 @@ create_field_marshal = {
 
 create_field_marshal = {
 	name = "my pet rock :D"
-	picture = "mypetrock.dds"
+	picture = "mypetrock"
 	traits = { }
 	skill = 1
 	attack_skill = 1

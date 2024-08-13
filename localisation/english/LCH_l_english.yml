@@ -1,0 +1,20 @@
+﻿l_english:
+## COUNTRY SHIT ##
+ LCH_fascism:0 "Liechtenstein"
+ LCH_fascism_DEF:0 "the Fucking Liechtenstein"
+ LCH_fascism_ADJ:0 "Liechtensteiner"
+ LCH_democratic:0 "Liechtenstein"
+ LCH_democratic_DEF:0 "the Fucking Liechtenstein"
+ LCH_democratic_ADJ:0 "Liechtensteiner"
+ LCH_communism:0 "Liechtenstein"
+ LCH_communism_DEF:0 "the Fucking Liechtenstein"
+ LCH_communism_ADJ:0 "Liechtensteiner"
+ LCH_neutrality:0 "Liechtenstein"
+ LCH_neutrality_DEF:0 "the Fucking Liechtenstein"
+ LCH_neutrality_ADJ:0 "Liechtensteiner"
+
+ ## EVENTS ##
+ 
+ LCH_event.1.t:0 "idfk"
+ LCH_event.1.d:0 "idfk"
+ LCH_event.1.a:0 "idfk"
