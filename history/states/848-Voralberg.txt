@@ -6,6 +6,9 @@ state={
 	state_category = pastoral
 	history={
 		owner = AUS
+		victory_points = {
+			6680 10 
+		}
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -14,9 +17,6 @@ state={
 		add_core_of = LCH
 		add_claim_by = SWI
 	}
-		victory_points = {
-			6680 10 
-		}
 	provinces={
 		6678 6680 
 	}

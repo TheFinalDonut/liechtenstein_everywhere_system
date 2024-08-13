@@ -1,0 +1,59 @@
+characters={
+	LCH_franz_joseph_ii = {
+		name = LCH_franz_joseph_ii
+		portraits = {
+			civilian = {
+				large = GFX_portrait_sigmamale
+			}
+		}
+		country_leader = {
+			desc = LCH_franz_joseph_ii_d
+			ideology = despotism
+			traits = {
+				
+			}
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+
+	LCH_john_lichtenstein = {
+		name = LCH_john_lichtenstein
+		portraits = {
+			army = {
+				large = GFX_portrait_john_lichtenstein
+			}
+		}
+		
+		field_marshal = {
+			traits = { old_guard }
+			skill = 9
+			attack_skill = 9
+			defense_skill = 9
+			planning_skill = 9
+			logistics_skill = 9
+			legacy_id = -1
+			desc = LCH_john_lichtenstein_d
+		}
+	}
+	
+	LCH_mypetrock = {
+		name = LCH_mypetrock
+		portraits = {
+			army = {
+				large = GFX_portrait_mypetrock
+			}
+		}
+		
+		field_marshal = {
+			traits = {  }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+			desc = LCH_mypetrock_d
+		}
+	}
+}

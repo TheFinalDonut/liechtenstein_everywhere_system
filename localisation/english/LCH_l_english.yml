@@ -21,6 +21,14 @@
  LCH_democratic_party_desc:0 "Joseph's Horde"
  LCH_neutrality_party:0 "Joseph's Horde"
  LCH_neutrality_party_desc:0 "Joseph's Horde"
+ 
+ ## CHARACTERS ##
+ LCH_franz_joseph_ii:0 "Franz Joseph II"
+ LCH_franz_joseph_ii_d:0 "HE'S THEEW9RHYGUFIAGFREDEUDIURUEGOYIH"
+ LCH_john_lichtenstein:0 "John Liechtenstein"
+ LCH_john_lichtenstein_d:0 "THE ONE AND FUCKING ONLY"
+ LCH_mypetrock:0 "my pet rock :D"
+ LCH_mypetrock_d:0 "his pet rock D:"
  ## EVENTS ##
  
  LCH_event.1.t:0 "idfk"

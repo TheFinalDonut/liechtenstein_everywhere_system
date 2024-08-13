@@ -3,15 +3,15 @@ spriteTypes = {
 	### AFG
 
 	spriteType = {
-		name = "sigmamale"
+		name = "GFX_portrait_sigmamale"
 		texturefile = "gfx/leaders/LCH/sigmamale.dds"
 	}
 	spriteType = {
-		name = "john_lichtenstein"
+		name = "GFX_portrait_john_lichtenstein"
 		texturefile = "gfx/leaders/lCH/john_lichtenstein.dds"
 	}
 	spriteType = {
-		name = "mypetrock"
+		name = "GFX_portrait_mypetrock"
 		texturefile = "gfx/leaders/lCH/mypetrock.dds"
 	}
 }

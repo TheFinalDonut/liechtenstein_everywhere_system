@@ -21,9 +21,13 @@ country_event = {
 			
 		}
 		random_country = {
+			random_owned_state = {
+				transfer_state_to = LCH
+			}
 			LCH = {
-				random_state = {
-					set_state_owner = PREV
+				declare_war_on = {
+					target = PREV
+					type = annex_everything
 				}
 			}
 		}
