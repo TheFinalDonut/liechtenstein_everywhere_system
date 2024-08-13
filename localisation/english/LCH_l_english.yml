@@ -12,7 +12,15 @@
  LCH_neutrality:0 "Liechtenstein"
  LCH_neutrality_DEF:0 "the Fucking Liechtenstein"
  LCH_neutrality_ADJ:0 "Liechtensteiner"
-
+ 
+ LCH_fascism_party:0 "Joseph's Horde"
+ LCH_fascism_party_long:0 "Joseph's Horde"
+ LCH_communism_party:0 "Joseph's Horde"
+ LCH_communism_party_long:0 "Joseph's Horde"
+ LCH_democratic_party:0 "Joseph's Horde"
+ LCH_democratic_party_desc:0 "Joseph's Horde"
+ LCH_neutrality_party:0 "Joseph's Horde"
+ LCH_neutrality_party_desc:0 "Joseph's Horde"
  ## EVENTS ##
  
  LCH_event.1.t:0 "idfk"

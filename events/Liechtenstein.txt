@@ -20,6 +20,12 @@ country_event = {
 		hidden_effect = {
 			
 		}
-		
+		random_country = {
+			LCH = {
+				random_state = {
+					set_state_owner = PREV
+				}
+			}
+		}
 	}
 }
